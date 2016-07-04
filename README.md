@@ -1,5 +1,7 @@
 # Летняя межвузовская школа, 2016 год
 
+[![Join the chat at https://gitter.im/druzhkov-paul/itseez-ss-2016-practice-1](https://badges.gitter.im/druzhkov-paul/itseez-ss-2016-practice-1.svg)](https://gitter.im/druzhkov-paul/itseez-ss-2016-practice-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Практикум
 
 Практикум предполагает выполнение четырех лабораторных работ, которые
